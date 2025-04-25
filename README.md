@@ -1,6 +1,6 @@
-# 📦 list_to_grid_converter
+# 📦 auto_list_grid_view
 
-`list_to_grid_converter` — bu Flutter paketi, ekran ölçüsünə əsasən avtomatik olaraq `ListView.builder` görünüşündən `GridView.builder` görünüşünə keçid etməyə imkan verir.
+`auto_list_grid_view` — bu Flutter paketi, ekran ölçüsünə əsasən avtomatik olaraq `ListView.builder` görünüşündən `GridView.builder` görünüşünə keçid etməyə imkan verir.
 
 Bu paket mobil və web platformalarda **responsive dizaynı** asanlaşdırmaq üçün nəzərdə tutulmuşdur.
 
