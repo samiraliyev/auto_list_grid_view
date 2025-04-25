@@ -1,7 +1,7 @@
-name: list_to_grid_converter
+name: auto_list_grid_view
 description: A simple Flutter package that dynamically converts an on-screen ListView.builder view to a GridView.builder.
 version: 0.0.1
-homepage: https://github.com/samiraliyev/list_to_grid_converter
+homepage: https://github.com/samiraliyev/auto_list_grid_view
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
