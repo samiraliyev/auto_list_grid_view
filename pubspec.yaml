@@ -1,0 +1,12 @@
+name: list_to_grid_converter
+description: A simple Flutter package that dynamically converts an on-screen ListView.builder view to a GridView.builder.
+version: 0.0.1
+homepage: https://github.com/samiraliyev/list_to_grid_converter
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
